@@ -1,5 +1,5 @@
-import { goToBook } from "/main-layout/main.js";
-import { currentBookData } from "/book-app/2.currentBookData.js";
+import { goToBook } from "/darsyavar-proto/DarsYavar-html-css-js/main-layout/main.js";
+import { currentBookData } from "/darsyavar-proto/DarsYavar-html-css-js/book-app/2.currentBookData.js";
 
 
 // show or hide the answer
